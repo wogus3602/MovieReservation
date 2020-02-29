@@ -6,4 +6,4 @@
 
 ## Reference ##
 
-[참고자료](./reference.pdf)
+[자료](./reference.pdf)
